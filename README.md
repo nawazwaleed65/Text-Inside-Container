@@ -1,16 +1,10 @@
-# task1
+Description:
+This is a simple Flutter application that demonstrates how to create a centered text widget within a styled container. The project showcases:
 
-A new Flutter project.
+A red square container with fixed dimensions.
+A centered, stylized text that features custom font size, bold weight, light blue color, and a pink background.
+A clean and minimal UI using basic Flutter widgets such as Center, Container, and Text.
+Designed as an example for beginners learning Flutter UI layout and text styling.
+This project serves as a foundational example for building more complex Flutter applications.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
